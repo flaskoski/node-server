@@ -1,2 +1,2 @@
 # node-server
-Code used to test AWS CodeDeploy
+Repository used to test AWS CodeDeploy
